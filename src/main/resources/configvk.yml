@@ -1,0 +1,8 @@
+plugins:
+  Essentials:
+    worlds:
+      - world
+  WorldEdit:
+    worlds:
+      - creative
+      - world_nether

@@ -1,0 +1,11 @@
+name: PluginManagerVK
+version: '${version}'
+main: ir.gharri.pluginManagerVK.PluginManagerVK
+api-version: '1.21'
+commands:
+  pmvk:
+    description: PluginManagerVK admin command
+    permission: pmvk.admin
+permissions:
+  pmvk.admin:
+    default: op
